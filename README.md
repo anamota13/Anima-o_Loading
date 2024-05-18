@@ -6,7 +6,8 @@ Este projeto oferece uma animação de carregamento com uma barra de progresso. 
 
 ## 🎞 GIF
 Veja a animação em forma de GIF:
+![Animation](animation.gif)
 
 
 ## CODEPEN.IO
-Acesse a ANIMAÇÃO pelo Codepen.io.
+Acesse a <a href="https://codepen.io/anamota13/pen/YzbyoxO" style="color: black;">ANIMAÇÃO</a> pelo Codepen.io.
